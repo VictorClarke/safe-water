@@ -15,7 +15,7 @@ Then, we will explore other datasets from the EPA, including, but not limited to
 - the Enforcement and Compliance History Outline.
 - (Feel free to add link to new interesting datasets here)
 
-## Join Us
+## Info
 Find us on our Slack channel #water.
 Join our Trello board. We use Trello as a project management tool to track tasks in a Kanban.
 We also have a google drive folder with various documentation.
@@ -25,4 +25,4 @@ We are using python with pandas, although some people are using R as well.
 The slack pinned items are a really good way to get started. Scroll through them to get more context about what we are doing.
 Take a look at the docs/ folder for the next steps and technical setup.
 Things move fast
-This documentation is a living thing. Fork and propose your update 🙏
+This documentation is a living thing. 
